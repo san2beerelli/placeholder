@@ -1,6 +1,6 @@
-This assesment was developed on node V9.10.0 and npm V5.6.0. If you have any difficulties to run the app, Please update spicific versions to your node & npm.
+Developed on node V9.10.0 and npm V5.6.0. If you have any difficulties to run the app, Please update specific versions to your node & npm.
 
-## Libraries used for assesment
+## Libraries used for
 
 | Type      | Library |
 | :-------- | :------ |
